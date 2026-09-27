@@ -37,3 +37,8 @@ The quote form (`quote.html`) is a **Netlify Form** with a honeypot and an optio
 
 ## Proposed domain
 **allkolorzrva.com.** Register it, then point it at Netlify.
+
+
+## Live preview domain (updated 27 Sep 2026)
+The site is live at https://all-kolorz-custom-paint-body.netlify.app/ and every canonical URL, Open Graph/Twitter tag, JSON-LD URL, sitemap.xml, robots.txt and llms.txt now points there, so text-message and social link previews show this address.
+When the owner's own domain (allkolorzrva.com) is connected in Netlify, find-and-replace `all-kolorz-custom-paint-body.netlify.app` with `allkolorzrva.com` across the .html/.xml/.txt/.toml files, then redeploy.

@@ -13,4 +13,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://allkolorzrva.com/sitemap.xml
+Sitemap: https://all-kolorz-custom-paint-body.netlify.app/sitemap.xml

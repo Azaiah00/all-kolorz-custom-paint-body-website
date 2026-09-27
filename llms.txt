@@ -6,8 +6,8 @@
 - Name: All Kolorz Custom Paint & Body (also written A.K.C. Paint & Body)
 - Address: 232 E Belt Blvd, Richmond, VA 23224 (Southside Richmond)
 - Phone (call or text): (804) 647-1222
-- Website: https://allkolorzrva.com/
-- Quote form: https://allkolorzrva.com/quote.html
+- Website: https://all-kolorz-custom-paint-body.netlify.app/
+- Quote form: https://all-kolorz-custom-paint-body.netlify.app/quote.html
 
 ## Hours
 - Monday to Friday: 9:00 AM to 5:00 PM
@@ -28,7 +28,7 @@
 - ATB Kustoms starlight headliners (starting prices; vary by vehicle type): 250 stars from $250; 350 from $300; 450 from $350; 550 from $450; 650 from $550; 750 from $600; 850 from $700; 900 from $750; 1,000 from $800; 1,100 from $850; 1,200 from $900; over 1,200 priced per vehicle.
 
 ## How to book
-Text photos to (804) 647-1222, call, DM @all_kolorz_ on Instagram, or use https://allkolorzrva.com/quote.html.
+Text photos to (804) 647-1222, call, DM @all_kolorz_ on Instagram, or use https://all-kolorz-custom-paint-body.netlify.app/quote.html.
 
 ## Reputation
 - Google rating: 4.6 from 39 reviews
